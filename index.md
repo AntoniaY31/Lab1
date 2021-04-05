@@ -24,7 +24,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 2. James Monroe
 3. John Quincy Adams
 
-[##section link](https://pages.github.com/)
+##section link
 
 1. First list item
    - First nested list item
